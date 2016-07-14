@@ -1,5 +1,5 @@
 {
-  "name": "clearfix.less",
+  "name": "@nathanfaucett/clearfix.less",
   "version": "0.0.1",
   "description": "clearfix helper function for less",
   "repository": {
